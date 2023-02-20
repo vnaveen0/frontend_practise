@@ -1,0 +1,68 @@
+h1 {
+    color: purple;
+
+}
+
+
+h2 {
+    color: rgb(67, 86, 151);
+    
+}
+
+#header2 {
+    color: rgb(187, 139, 36);
+}
+
+p { 
+    color: rgb(85, 85, 92); 
+  }
+
+  #latest { 
+    background-color: rgb(85, 126, 180); 
+  }
+
+
+.navigation { 
+    margin: 1px;
+    color: rgb(15, 122, 5);
+  }
+
+p.introduction { 
+    margin: 2px;
+}
+
+th, td {
+    color: rgb(85, 85, 92); 
+}
+
+text {
+    color: rgb(85, 85, 92); 
+}
+
+#blog h1 {
+    color: blue;
+  }
+
+
+  #blog p {
+    color: rgb(54, 63, 68);
+  }
+
+  #blog div h1 {
+    color: rgb(255, 0, 43);
+  }
+
+  #blog > h1 {
+    color: rgb(84, 177, 56);
+  }
+
+  a:hover {
+    color: orange;
+  }
+
+p { 
+text-decoration-line: underline;
+text-decoration-color: rgb(11, 8, 156);
+text-decoration-style: solid;
+text-decoration-thickness: 2px;
+}
